@@ -11,6 +11,42 @@ body {
     font-size: 16px;
 }
 
+.h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: #000;
+    text-transform: uppercase;
+    padding-top: 125px;
+}
+
+.p {
+    font-family: 'Merriweather', serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: #858686;
+    text-transform: uppercase;
+    margin-bottom: 125px;
+}
+
+.h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #3e3f3f;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+.text {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #585858;
+    text-align: left;
+    line-height: 28px;
+}
+
 /*header*/
 
 .wrapper {
@@ -31,9 +67,12 @@ body {
 
 /*main*/
 
+/* greeting */
+
 .greeting {
     background-color: #eff0f2;
     padding-bottom: 135px;
+    position: relative;
 }
 
 .greeting-text {
@@ -42,7 +81,7 @@ body {
     font-weight: bold;
     color: #505050;
     text-transform: uppercase;
-    text-shadow: 2px 10px 8px rgba(204, 205, 207, 0.5); /*разобраться с тенью!!!!*/
+    text-shadow: 2px 10px 8px #c7c8c9; 
     padding-top: 203px;
 }
 
@@ -59,4 +98,36 @@ body {
     color: #606061;
     background-color: #eff0f2;
     padding: 18px 45px;
+    margin-top: 140px;
+}
+
+.greeting-img {
+    width: 75px;
+    height: 85px;
+    position: absolute;
+    top: 472px;
+    left: 1140px;
+}
+
+.greeting-img img {
+    width: 100%;
+}
+
+/* information */
+
+.information {
+    background-color: #f8fafa;
+}
+
+.information-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.information-text {
+    margin-left: 120px;
+}
+
+.information-text-one {
+    padding-bottom: 40px;
 }
