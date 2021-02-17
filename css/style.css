@@ -156,3 +156,63 @@ body {
     height: 100%;
     object-fit: cover;
 }
+
+/*services*/
+
+.services {
+    background-color: #f9fbfb;
+}
+
+.galliry-item_height {
+    height: 440px;
+}
+
+/*container-reviews*/
+
+.container-reviews {
+    background-color: #f9fbfb;
+}
+
+.partners-items {
+    padding-bottom: 120px;
+}
+
+/*contacts*/
+
+.contacts {
+   
+}
+
+/*footer*/
+
+.footer {
+    background-color: #262b2e;
+    font-family: 'Raleway', sans-serif;
+}
+
+.footer-social {
+    padding: 90px;
+}
+
+.footer-social p {
+    font-size: 500; 
+    color: #717476;
+    text-align: center;
+    margin-top: 42px;
+}
+
+.footer h3 {
+    font-size: 400; 
+    color: #d4d5d5;
+    text-align: center;
+    margin-bottom: 19px;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+}
+
+.social img {
+    margin-left: 10px;
+}
