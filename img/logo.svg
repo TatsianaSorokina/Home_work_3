@@ -1,0 +1,62 @@
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118.54" height="51.54" viewBox="0 0 118.54 51.54">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #170f1c;
+        stroke-width: 5.54px;
+      }
+
+      .cls-2 {
+        font-size: 17px;
+        filter: url(#filter);
+        text-anchor: middle;
+        font-family: Montserrat;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+
+      .cls-3 {
+        fill: #77efe5;
+        font-size: 21px;
+      }
+    </style>
+    <filter id="filter" x="15.77" y="17.77" width="88" height="19" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="1.414"/>
+      <feFlood result="flood" flood-color="#151516" flood-opacity="0.75"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" x="2.77" y="2.77" width="113" height="46"/>
+  <text id="SHOPNO" class="cls-2" x="58.771" y="33.77">SH<tspan class="cls-3">O</tspan>PNO</text>
+</svg>
